@@ -79,7 +79,7 @@ function RomanNumberFunction() {
                         convertNow()
                     }}
                 >
-                    Convert
+                    Convert to Roman
                 </button>
             </div>
 
